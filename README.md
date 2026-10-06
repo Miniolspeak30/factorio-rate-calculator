@@ -1,2 +1,83 @@
-# factorio-rate-calculator
-Offline production rate calculator for Factorio
+# 🕹️ Factorio Rate Calculator
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Downloads-50K%2B-E67E22?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Rating-4.9%2F5-E67E22?style=for-the-badge&logo=star" />
+  <img src="https://img.shields.io/badge/Version-Latest-101010?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
+  <img src="https://img.shields.io/badge/Gaming%20Tools-E67E22?style=for-the-badge" />
+</p>
+
+**🕹️ Factorio Rate Calculator** — Offline production rate calculator for Factorio. Factorio Rate Calculator lets you quickly calculate production and consumption rates for any item in Factorio. Determine how many machines, belts and inserters you need for any target throughput offline.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows" />
+  <img src="https://skillicons.dev/icons?i=apple" />
+  <img src="https://skillicons.dev/icons?i=github" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=E67E22&size=28&center=true&vCenter=true&width=900&lines=Factorio+Rate+Calculator;⭐+Offline+production+rate+calculator+for+Factorio;🚀+Item+Rate+Calc;🔥+Belt+Analysis" />
+</p>
+
+<div align="center">
+
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Miniolspeak30/factorio-rate-calculator)
+
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/Miniolspeak30/factorio-rate-calculator)
+
+</div>
+
+<div align="center">
+<img width="200" alt="Factorio Rate Calculator logo" src="https://raw.githubusercontent.com/Miniolspeak30/factorio-rate-calculator/main/logo.png" />
+</div>
+
+---
+
+## 🚀 Features
+
+| **Feature** | **Description** |
+|:---|:---|
+| **Item Rate Calc** | Enter a desired items-per-second target and get machine counts |
+| **Belt Analysis** | Calculate belt saturation for any production rate |
+| **Inserter Count** | Determine inserter count and speed needed per machine row |
+| **Module Impact** | See how productivity and efficiency modules change your throughput |
+
+---
+
+## 📋 System Requirements
+
+| **Component** | **Windows** | **macOS** |
+|---------------|-------------|-----------|
+| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
+| **RAM** | 4 GB+ | 4 GB+ |
+| **Storage** | 2 GB free | 2 GB free |
+| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+
+---
+
+## ⚠️ Legal Disclaimer
+
+| ✅ Allowed | ❌ Not Allowed |
+|------------|----------------|
+| Personal use | Commercial redistribution |
+| Education | Resale |
+| Research & testing | Modification of source files |
+
+---
+
+**Factorio Rate Calculator** — Offline production rate calculator for Factorio.
+
+<div align="center">
+
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Miniolspeak30/factorio-rate-calculator)
+
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/Miniolspeak30/factorio-rate-calculator)
+
+</div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows" />
+  <img src="https://skillicons.dev/icons?i=apple" />
+  <img src="https://skillicons.dev/icons?i=github" />
+</p>
